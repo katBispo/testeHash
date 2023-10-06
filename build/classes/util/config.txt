@@ -1,0 +1,15 @@
+##UTILIZAÇÃO DO ARQUIVO "execMenuQuestoes.txt"
+
+#Arquivo utilizado para facilitar a execução das classes principais das três questões
+#Este arquivo está sendo aberto na classe "Menu" que está dentro do pacote util
+#O arquivo txt conta apenas com uma linha que pode ser: "questao01" ou "questao02" ou "questao03", onde na classe "Menu" 
+é realizado o tratamento dessa String por meio de "switch cases" para o programa saber qual questão deve ser executada
+
+##QUESTAO01
+FUNCIONAMENTO ALGORITMO TABELA HASH:
+    -Na construção da tabela hash eu utilizei a estrutura de uma árvore binária para tratar as colisões
+    já que vários elementos podem ter uma mesma chave e a utilização de arvore evita uma busca linear 
+    -utilizando a função length para calcular a quantidade de dados no arquivo txt é possível calcular
+    tamanho ideal da tabela para realizar o espalhamento
+
+
